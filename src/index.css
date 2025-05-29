@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@font-face {
+    font-family: pp;
+    src: url('../Fonts/PPNeueMontreal-Regular.48a63c42.ttf');
+}
+*{
+    overflow-x: hidden;
+    font-family: pp;
+}
+
+canvas{
+    pointer-events: none;
+}
+
+span.growingSpan{
+    background-color: #ED3833
+}
+
+span.mouse{
+     background-color: #ED3833
+}
