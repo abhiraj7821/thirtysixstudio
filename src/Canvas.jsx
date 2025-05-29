@@ -1,5 +1,5 @@
 import { useEffect, useRef,useState} from "react"
-import thirtysiximages from '../thirtysiximages'
+import thirtysiximages from './thirtysiximages'
 import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
 
